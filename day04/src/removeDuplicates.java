@@ -1,6 +1,6 @@
 public class removeDuplicates {
     public static void main(String[] args) {
-        int[] nums={1,1,2};
+        int[] nums={1,2,0};
         System.out.println(new removeDuplicates().deleteDuplicates(nums));
 
     }

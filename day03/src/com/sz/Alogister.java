@@ -2,8 +2,9 @@ package com.sz;
 //求数组的最长公共前缀
 public class Alogister {
     public static void main(String[] args) {
-        String [] strs={"flower","","flight"};
+        String [] strs={"flower","fooo","flight"};
         System.out.println(longestCommonPrefix(strs));
+        System.out.println("----");
     }
     public static String longestCommonPrefix(String[] strs) {
         //当数组不含元素时返回空字符串
