@@ -1,0 +1,16 @@
+admin,123,true
+
+user1,password123,false
+
+user2,password456,false
+
+zzf,Bruce Eckel,false
+
+zzf,Bruce Eckel,false
+
+zzf,Bruce Eckel,false
+
+zzf,Bruce Eckel,false
+
+zzf,Bruce Eckel,false
+
